@@ -1,0 +1,65 @@
+- type: interval
+  title: Open & Acceptance
+  title-i18n: 開場・受付
+  details: start accepting
+  details-i18n: 開場時間です
+  time: 60
+- type: interval
+  title: Opening
+  title-i18n: オープニング
+  time: 10
+
+- type: presentation
+  title: Presentation A
+  title-i18n: プレゼンテーションA
+  details: Presentation A
+  details-i18n: プレゼンテーションA
+  language: ja 
+  time: 15
+  slide_url: 
+  slide_backup_path: 
+  video_url: 
+  speaker:
+    name: 名無し 
+    twitter: 
+    github: 
+    avatar: http://vimconf.vim-jp.org/2013/img/vimconf-icon.png
+
+
+- type: interval
+  title: Interval
+  title-i18n: 休憩
+  time: 15
+
+
+- type: presentation
+  title: Presentation B
+  title-i18n: プレゼンテーションB
+  details: Presentation B
+  details-i18n: プレゼンテーションB
+  language: ja 
+  time: 10
+  slide_url: 
+  slide_backup_path: 
+  video_url: 
+  speaker:
+    name: 名無し
+    twitter: 
+    github: 
+    avatar: http://vimconf.vim-jp.org/2013/img/vimconf-icon.png
+
+- type: interval
+  title: Closing 
+  title-i18n: クロージング
+  time: 10
+- type: interval
+  title: Preparing Party 
+  title-i18n: 懇親会準備
+  time: 10
+- type: interval
+  title: Party (w/ dinner by vimconf)
+  title-i18n: 懇親会 (vimconfによる夕食)
+  details: Enjoy VimDinner
+  details-i18n: ビムディナーをお楽しみください。
+  time: 120
+
